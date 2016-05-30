@@ -1,2 +1,5 @@
-# awesome-computational_neuroscience
-Manually curated collection of resources for computational neuroscience
+# Awesome Computational Neuroscience [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+Manually curated collection of resources for computational neuroscience.
+
+
