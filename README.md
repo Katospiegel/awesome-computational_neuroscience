@@ -2,4 +2,9 @@
 
 Manually curated collection of resources for computational neuroscience.
 
+## Simulators
 
+* [Brian](https://www.briansimulator.org) - Brian is a simulator for spiking neural networks based on Python.
+* [Nengo](http://www.nengo.ca/) - Nengo is a software package for simulating large-scale neural systems.
+
+## Model Databases
