@@ -10,6 +10,9 @@ Manually curated collection of resources for computational neuroscience.
 
 * [Brian](https://www.briansimulator.org) - Brian is a simulator for spiking neural networks based on Python.
 * [Nengo](http://www.nengo.ca/) - Nengo is a software package for simulating large-scale neural systems.
+* [Nest](http://www.nest-simulator.org/) - NEST is a simulator for spiking neural network models that focuses on the dynamics, size and structure of neural systems rather than on the exact morphology of individual neurons.
+* [Neuron](https://www.neuron.yale.edu/neuron/) - Neuron is a simulation environment for building and using computational models of neurons and networks of neurons.
+* [STEPS](http://steps.sourceforge.net/STEPS/default.php) - STEPS is a python package for exact stochastic simulation of reaction-diffusion systems in arbitrarily complex 3D geometries.
 
 ## Model Databases
 
