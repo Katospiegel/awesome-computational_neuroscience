@@ -6,6 +6,12 @@ Manually curated collection of resources for computational neuroscience.
 
 * [Computational Neuroscience](https://www.coursera.org/course/compneuro) - Computational Neuroscience Mooc on Coursera.
 
+## Conferences
+
+* [OCNC] (https://groups.oist.jp/ocnc) Computational Neuroscience Course from OIST University, Okinawa
+* [CNS] (http://www.cnsorg.org/) Organization for computational neuroscience
+* [CoSyne] (http://www.cosyne.org/) Computational and Systems Neuroscience 
+
 ## Simulators
 
 * [Brian](https://www.briansimulator.org) - Brian is a simulator for spiking neural networks based on Python.
