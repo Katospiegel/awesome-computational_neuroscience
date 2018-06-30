@@ -6,11 +6,12 @@ Manually curated collection of resources for computational neuroscience.
 
 * [Computational Neuroscience](https://www.coursera.org/course/compneuro) - Computational Neuroscience Mooc on Coursera.
 
-## Conferences
+## Conferences/Societies
 
 * [OCNC] (https://groups.oist.jp/ocnc) Computational Neuroscience Course from OIST University, Okinawa
 * [CNS] (http://www.cnsorg.org/) Organization for computational neuroscience
 * [CoSyne] (http://www.cosyne.org/) Computational and Systems Neuroscience 
+* [JNNS]  (http://jnns.org/english/index.php) Japanese Neural Network Society
 
 ## Simulators
 
